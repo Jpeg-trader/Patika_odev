@@ -44,11 +44,12 @@
     background-color: lightseagreen;
 }
 .third{
-    background-color: beige ;
+    background-color: mediumseagreen ;
 }
 .s{
     text-align: center;
 }
 .copyright{
+    margin-top: 10px;
     text-align: center;
 }
