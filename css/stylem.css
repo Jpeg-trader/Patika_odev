@@ -1,0 +1,54 @@
+.image .google {
+    display: block;
+    margin: 0 auto;
+}
+.search{
+    background: lightgray;
+    border: black;
+}
+.search .search_text{
+    text-align: center;
+    font-weight: 300;
+}
+.divider{
+  width: 220px;
+  height: 20px;
+  margin: 0 auto;
+  margin-top: 18px;
+  background: white;
+}
+.inline_block{
+    text-align: center;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.input{
+    text-align: center;
+}
+.small{
+    margin-right: 10px;
+    border: 1px black;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-item{
+    min-width:33%;
+    text-align: center;
+}
+.first{
+    background-color: aquamarine;
+}
+.second{
+    background-color: lightseagreen;
+}
+.third{
+    background-color: beige ;
+}
+.s{
+    text-align: center;
+}
+.copyright{
+    text-align: center;
+}
